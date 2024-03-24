@@ -1,0 +1,30 @@
+{
+  "name": "supermarket-client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run --coverage",
+    "start": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitest/coverage-v8": "^1.4.0",
+    "@vue/test-utils": "^2.4.5",
+    "jsdom": "^24.0.0",
+    "resize-observer-polyfill": "^1.5.1",
+    "sass": "^1.72.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vitest": "^1.4.0",
+    "vue-tsc": "^2.0.6",
+    "vuetify": "^3.5.11"
+  }
+}
