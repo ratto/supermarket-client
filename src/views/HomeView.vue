@@ -1,8 +1,11 @@
-<script setup lang="ts">
-import HelloWorld from '../components/HelloWorld.vue';
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <h1>Home</h1>
-  <HelloWorld msg="Vite + Vue" />
+  <p>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum nihil est
+    dolorum dolor sapiente omnis explicabo tenetur officiis perferendis, velit,
+    voluptas vitae. Facilis, nesciunt vero reprehenderit veritatis repellendus
+    facere distinctio!
+  </p>
 </template>
