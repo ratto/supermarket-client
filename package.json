@@ -9,6 +9,9 @@
     "build": "vue-tsc && vite build",
     "preview": "vite preview"
   },
+  "keywords": [],
+  "author": "Pedro Paixão",
+  "license": "MIT",
   "dependencies": {
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
@@ -34,3 +37,4 @@
     "vuetify": "^3.5.11"
   }
 }
+
